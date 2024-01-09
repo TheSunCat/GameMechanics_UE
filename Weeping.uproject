@@ -3,6 +3,16 @@
 	"EngineAssociation": "F5B7797F-5BB4-4695-A13B-03039D00977E",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "Weeping",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
